@@ -1,4 +1,3 @@
-README.txt
 A modified Adafruit LE Connect App that implements a customized slider system, custom packet delivery system over Bluetooth LE, and custom activity that uses all of these features. This controls a remote controlled vehicle (RCV) for a custom built RCV using a Bluefruit 32u4
 
 ## License
